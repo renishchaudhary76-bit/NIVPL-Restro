@@ -1,0 +1,10 @@
+Initial commit — NIVPL website v1.0
+
+Full website for NI Ventures Private Limited (nivpl.com)
+- 13 HTML pages: Home, About, Brands (6), Careers, News, Contact
+- Unified CSS design system (cream/burgundy/warm palette)
+- animations.js — page transitions, scroll reveals, cursor glow
+- All brand logos and food photography integrated
+- SEO meta tags, OG tags, sitemap.xml, robots.txt
+- Contact form wired to FormSubmit
+- Fully mobile responsive
